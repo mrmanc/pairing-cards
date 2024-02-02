@@ -35,6 +35,7 @@ mindmap
             Swapping roles
             Sharing personal space considerately
             Keymapping
+            Starting with the assertion
         Styles
             Ping pong
             Classic
