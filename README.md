@@ -36,6 +36,7 @@ mindmap
             Sharing personal space considerately
             Keymapping
             Starting with the assertion
+            Approaching a kata: 1. Describe in own words, 2. Look to simplify, 3. Define inputs and outputs, 4. Write the steps you’d take on paper in human language with inputs and outputs
         Styles
             Ping pong
             Classic
