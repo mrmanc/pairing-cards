@@ -31,6 +31,9 @@ mindmap
                 Focus mode
                 DND
             Co authoring commits
+            Commit little, commit often
+            WIP commits with task lists
+            Staying close to green
             Drawing diagrams
             Swapping roles
             Sharing personal space considerately
